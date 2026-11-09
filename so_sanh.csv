@@ -1,0 +1,5 @@
+cach,phan_thuong_tb,ngay_co_backup_pct,backup_luc_ranh_pct,cho_tb_gio
+AI (Q-learning),3.49,99.5,29.6,1.8
+AI (DQN),3.58,99.5,33.7,2.0
+Quy tac (CPU < 20%),2.24,84.5,100.0,5.7
+Ngau nhien,-1.21,96.0,22.4,2.0

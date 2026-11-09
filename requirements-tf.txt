@@ -1,0 +1,4 @@
+# Chi can khi dung tac nhan DQN bang TensorFlow (Khanh Dang).
+# Dung ban CPU (nhe hon ban day du, khong can GPU) va ghim dung phien ban
+# da kiem chung chay duoc tren Linux + Python 3.12:
+tensorflow-cpu==2.16.2
